@@ -1,0 +1,3 @@
+# Se dejan afuera de los push/pull los archivos .ply ya que son muy pesados y pueden ser generados por el script
+
+*.ply 

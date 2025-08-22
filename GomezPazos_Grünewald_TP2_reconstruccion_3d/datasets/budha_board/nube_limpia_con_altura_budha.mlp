@@ -1,0 +1,12 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh filename="reconstruccion_alineada_sin_puntitos.ply" label="reconstruccion_alineada_sin_puntitos.ply" visible="1" idInFile="-1">
+   <MLMatrix44>
+1 0 0 -0.580998 0 1 0 0.0831968 0 0 1 -0.423087 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireColor="64 64 64 255" boxColor="234 234 234 255" solidColor="192 192 192 255" wireWidth="1" pointSize="3" pointColor="252 233 79 255">000110010000000000000100000001000000001010100000000100111010110000011101</RenderingOption>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
